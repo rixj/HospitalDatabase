@@ -1,0 +1,24 @@
+You must connect via VPN to access the database. If you do not, the app will not run. Download "Cisco AnyConnect" which you can find if you google it. Enter "asa.uncw.edu" as the server, then login with my username: dc8704@uncw.edu pw: xxxx.
+
+Example logins (username pw) for the database app:
+
+DOCTORS:
+tmeier eiw12joji
+dwilcox lk231lk21
+kkotz kafsd98afsd
+jmarkow fasd87jh
+ekelley dfs76fsd
+jvega 837y2sd
+hmatsuda afsy7fds
+pwillis 38y7e287y
+cbrewer 3i92ia
+
+PATIENTS:
+hgreer kmlv8723
+jlowery a98cnes
+jphelps asfd221
+clucio klm32oi2o
+
+ADMIN:
+imoore lmk32emk
+dmoreau mlk32lmk
